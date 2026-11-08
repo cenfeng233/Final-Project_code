@@ -1,0 +1,15 @@
+{
+  "source": "data/raw/EGFR_compounds_ea055ef.csv",
+  "sha256": "58205d3f80e2a3157a00ff4cfcca3a8a05e7d0e662c99e701497deb486b34016",
+  "raw_rows": 5568,
+  "excluded": {
+    "same_label_duplicate_structure": 0
+  },
+  "clean_rows": 5568,
+  "class_counts": {
+    "0": 2312,
+    "1": 3256
+  },
+  "unique_scaffolds": 1869,
+  "acyclic_rows": 2
+}

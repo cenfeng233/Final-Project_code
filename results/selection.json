@@ -1,0 +1,4 @@
+{
+  "criterion": "validation ROC-AUC",
+  "selected_model": "Morgan"
+}

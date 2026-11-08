@@ -1,0 +1,28 @@
+{
+  "split_seed": 20261108,
+  "fallback_seeds_tried": 0,
+  "splits": {
+    "train": {
+      "n": 3512,
+      "fraction": 0.6307471264367817,
+      "positive": 1999,
+      "positive_fraction": 0.5691913439635535,
+      "unique_scaffolds": 1308
+    },
+    "validation": {
+      "n": 773,
+      "fraction": 0.13882902298850575,
+      "positive": 395,
+      "positive_fraction": 0.5109961190168176,
+      "unique_scaffolds": 280
+    },
+    "test": {
+      "n": 1283,
+      "fraction": 0.23042385057471265,
+      "positive": 862,
+      "positive_fraction": 0.6718628215120811,
+      "unique_scaffolds": 281
+    }
+  },
+  "scaffold_overlap": 0
+}
