@@ -18,7 +18,6 @@ On one fixed Bemis–Murcko scaffold split, a Morgan fingerprint plus random for
 | `data/raw/EGFR_compounds_ea055ef.csv` | Unmodified frozen public input file |
 | `DATA_ATTRIBUTION.md` | Data origin and reuse information |
 | `results/` | Audits, split manifest, metrics, predictions and figures |
-| `deliverables/` | Final report and presentation in PDF plus editable sources |
 
 ## Reproduce the analysis
 
