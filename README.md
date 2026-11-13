@@ -1,6 +1,6 @@
 # EGFR in vitro inhibition prediction
 
-**AIDD8122 final project — CEN FENG (P2600163)**
+**AIDD8122 final project — FENG CEN (P2600163)**
 
 This project asks whether a molecule's two-dimensional structure can predict **strong inhibition of human EGFR in an in vitro binding assay**. The label is `pIC50 >= 6.3`, approximately `IC50 <= 501 nM`. It is a research definition, not a clinical treatment threshold. The model does not predict cancer patient outcomes.
 
